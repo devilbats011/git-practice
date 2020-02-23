@@ -50,3 +50,6 @@ commit third
 commit third
 commit third
 commit third
+
+
+--- REBASE IN/ONTO MASTER
