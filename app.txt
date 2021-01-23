@@ -1,0 +1,5 @@
+import ***
+
+<WRAPPER>
+    <COMP1 foo={***}  >
+</WRAPPER>
