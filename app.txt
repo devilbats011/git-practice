@@ -8,7 +8,6 @@ import boo
         <PART-BOB>
         <PART-BILL>
         <ANOTHER-BILL>
-        <NONSENSE-feature>
       <COMP1>
     <WRAP>
     <SOMETHING1/>
