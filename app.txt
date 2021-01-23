@@ -6,6 +6,7 @@ import boo
         <PART-FOO>
         <PART-BOO>
         <PART-BOB>
+        <PART-BILL>
       <COMP1>
     <WRAP>
     <SOMETHING1/>
