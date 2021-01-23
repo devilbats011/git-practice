@@ -7,6 +7,7 @@ import boo
         <PART-BOO>
         <PART-BOB>
         <PART-BILL>
+        <NONSENSE-feature>
       <COMP1>
     <WRAP>
     <SOMETHING1/>
