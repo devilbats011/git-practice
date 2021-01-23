@@ -1,0 +1,3 @@
+<WRAPPER>
+    <COMP1>
+</WRAPPER>
