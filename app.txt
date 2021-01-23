@@ -5,6 +5,7 @@ import boo
       <COMP1 foo={***}  boo={boo} >
         <PART-FOO>
         <PART-BOO>
+        <PART-BILL>
       <COMP1>
     <WRAP>
     <SOMETHING1/>
