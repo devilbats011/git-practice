@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 import ***
 import boo
 <WRAPPER>
     <WRAP>
       <COMP1 foo={***}  boo={boo} >
     <WRAP>
+=======
+
+import ***
+
+<WRAPPER>
+    <COMP1 foo={***}  >
+>>>>>>> 674ea02c9f455c8da82f6722093bd66d51f52376
 </WRAPPER>
 
