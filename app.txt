@@ -7,6 +7,6 @@ import boo
         <PART-BOO>
       <COMP1>
     <WRAP>
-
+    <SOMETHING1/>
 </WRAPPER>
 
