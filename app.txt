@@ -1,3 +1,8 @@
+import ***
+import boo
 <WRAPPER>
-    <COMP1>
+    <WRAP>
+      <COMP1 foo={***}  boo={boo} >
+    <WRAP>
 </WRAPPER>
+
