@@ -3,6 +3,9 @@ import boo
 <WRAPPER>
     <WRAP>
       <COMP1 foo={***}  boo={boo} >
+        <PART-FOO>
+        <PART-BOO>
+      <COMP1>
     <WRAP>
 
 </WRAPPER>
